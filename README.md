@@ -19,6 +19,9 @@
 
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadfachrurrazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-fachrurrazi/)](https://www.linkedin.com/in/muhammad-fachrurrazi/) [![Gmail Badge](https://img.shields.io/badge/-mfachrurrazi41@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mfachrurrazi41@gmail.com)
 
