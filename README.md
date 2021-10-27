@@ -22,6 +22,8 @@
 
 <!--START_SECTION:waka-->
 ```text
+Week: 20 October, 2021 - 26 October, 2021
+
 Markdown   1 hr 16 mins    █████████████████████▓░░░   86.45 % 
 CSS        11 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 % 
 ```
