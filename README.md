@@ -1,6 +1,6 @@
-<h1 class="center>
+<p align="center">
            <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
-                                                                                                            </h1>
+</p>
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hello World!<img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />, I am
