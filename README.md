@@ -31,8 +31,5 @@ CSS        11 mins         ███▒░░░░░░░░░░░░░�
 
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadfachrurrazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-fachrurrazi/)](https://www.linkedin.com/in/muhammad-fachrurrazi/) [![Instagram Badge](https://img.shields.io/badge/-@muhfrrazi-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/muhfrrazi)](https://instagram.com/muhfrrazi) [![Gmail Badge](https://img.shields.io/badge/-mfachrurrazi41@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mfachrurrazi41@gmail.com)](mailto:mfachrurrazi@gmail.com)
 
-<p align="left">
-  <a href="#">
-      <img src="https://api.visitorbadge.io/api/VisitorHit?muhfrrazi=estruyf&repo=github-visitors-badge&countColor=%237B1E7A" />
-   </a>
-</p>
+![Visitor](https://komarev.com/ghpvc/?username=Muhfrrazi&color=green)
+
