@@ -33,6 +33,6 @@ CSS        11 mins         ███▒░░░░░░░░░░░░░�
 
 <p align="left">
   <a href="#">
-      <img src="https://api.visitorbadge.io/api/VisitorHit?Muhfrrazi=estruyf&repo=github-visitors-badge&countColor=%237B1E7A" />
+      <img src="https://api.visitorbadge.io/api/VisitorHit?muhfrrazi=estruyf&repo=github-visitors-badge&countColor=%237B1E7A" />
    </a>
 </p>
