@@ -21,7 +21,13 @@
 </p>
 
 <!--START_SECTION:waka-->
-
+```text
+Python   4 hrs 20 mins   ██████████▒░░░░░░░░░░░░░░   40.67 % 
+PHP      3 hrs 47 mins   █████████░░░░░░░░░░░░░░░░   35.59 % 
+HTML     54 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+CSS      47 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+XML      19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+```
 <!--END_SECTION:waka-->
 
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadfachrurrazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-fachrurrazi/)](https://www.linkedin.com/in/muhammad-fachrurrazi/) [![Instagram Badge](https://img.shields.io/badge/-@muhfrrazi-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/muhfrrazi)](https://instagram.com/muhfrrazi) [![Gmail Badge](https://img.shields.io/badge/-mfachrurrazi41@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mfachrurrazi41@gmail.com)](mailto:mfachrurrazi41@gmail.com)
