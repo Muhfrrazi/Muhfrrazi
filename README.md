@@ -22,7 +22,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   12 mins         ██████████████████░░░░░░░   72.06 % 
+HTML         3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.83 % 
+CSS          1 min           ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
 ```
 <!--END_SECTION:waka-->
 
