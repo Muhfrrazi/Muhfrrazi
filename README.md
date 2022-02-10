@@ -17,7 +17,7 @@
                 「 Student, Information Technology @<b> Lambung Mangkurat University</b> 」
                 <br>
                 <br>
-                I have [Oracle Certified Foundations Associate, Database](https://www.credly.com/badges/1ff1c1cd-313a-44ba-8c3b-3d180a22286b?source=linked_in_profile) skill since 2021\
+                I have [Oracle Certified Foundations Associate, Database](https://www.credly.com/badges/1ff1c1cd-313a-44ba-8c3b-3d180a22286b?source=linked_in_profile) skill since 2021
         </samp>
 </p>
 
