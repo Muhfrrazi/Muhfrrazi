@@ -38,9 +38,12 @@
 
 
 <!--START_SECTION:waka-->
+
 ```text
-HTML         1 hr 1 min      █████████████████████████   99.40 % 
+HTML         1 hr 1 min      █████████████████████████   99.40 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
 ```
+
 <!--END_SECTION:waka-->
 
 <p align="left">
