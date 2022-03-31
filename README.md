@@ -37,6 +37,13 @@
 <br />
 <br />
 
+### ⚙️   GitHub Analytics
+<p align="center">
+<a href="https://github.com/Muhfrrazi">
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Muhfrrazi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Muhfrrazi&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <!--START_SECTION:waka-->
 📊 This Week I Spent My Time On
@@ -50,14 +57,6 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-### ⚙️   GitHub Analytics
-<p align="center">
-<a href="https://github.com/Muhfrrazi">
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Muhfrrazi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Muhfrrazi&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadfachrurrazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-fachrurrazi/)](https://www.linkedin.com/in/muhammad-fachrurrazi/) [![Instagram Badge](https://img.shields.io/badge/-@muhfrrazi-DD2A7B?style=flat-square&labelColor=DD2A7B&logo=instagram&logoColor=white&link=https://instagram.com/muhfrrazi)](https://instagram.com/muhfrrazi) [![Gmail Badge](https://img.shields.io/badge/-mfachrurrazi41@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mfachrurrazi41@gmail.com)](mailto:mfachrurrazi41@gmail.com)
 
