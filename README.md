@@ -39,7 +39,7 @@
 
 
 <!--START_SECTION:waka-->
-
+📊 This Week I Spent My Time On
 ```text
 JavaScript   5 hrs 48 mins   █████████████████████▓░░░   86.67 %
 HTML         21 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.40 %
@@ -51,7 +51,8 @@ Other        0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<p align="left">
+### ⚙️   GitHub Analytics
+<p align="center">
 <a href="https://github.com/Muhfrrazi">
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Muhfrrazi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Muhfrrazi&layout=compact&langs_count=8&theme=algolia"/>
