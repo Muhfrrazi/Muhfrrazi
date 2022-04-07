@@ -46,7 +46,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-109-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-115-blue)
 
 **I'm an Early 🐤** 
 
@@ -91,7 +91,7 @@ CSS                      1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 06/04/2022 18:47:57 UTC
+ Last Updated on 07/04/2022 18:48:51 UTC
 <!--END_SECTION:waka-->
 
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadfachrurrazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-fachrurrazi/)](https://www.linkedin.com/in/muhammad-fachrurrazi/) [![Instagram Badge](https://img.shields.io/badge/-@muhfrrazi-DD2A7B?style=flat-square&labelColor=DD2A7B&logo=instagram&logoColor=white&link=https://instagram.com/muhfrrazi)](https://instagram.com/muhfrrazi) [![Gmail Badge](https://img.shields.io/badge/-mfachrurrazi41@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mfachrurrazi41@gmail.com)](mailto:mfachrurrazi41@gmail.com)
