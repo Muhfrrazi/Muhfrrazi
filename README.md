@@ -80,17 +80,17 @@ Windows                  10 mins             ███████████�
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               4 repos             █████████░░░░░░░░░░░░░░░░   36.36% 
-PHP                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
-Hack                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-CSS                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+JavaScript               4 repos             ████████░░░░░░░░░░░░░░░░░   33.33% 
+PHP                      2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+HTML                     2 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+Blade                    1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33% 
+Hack                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
 
 ```
 
 
 
- Last Updated on 09/04/2022 18:47:31 UTC
+ Last Updated on 10/04/2022 18:48:03 UTC
 <!--END_SECTION:waka-->
 
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadfachrurrazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-fachrurrazi/)](https://www.linkedin.com/in/muhammad-fachrurrazi/) [![Instagram Badge](https://img.shields.io/badge/-@muhfrrazi-DD2A7B?style=flat-square&labelColor=DD2A7B&logo=instagram&logoColor=white&link=https://instagram.com/muhfrrazi)](https://instagram.com/muhfrrazi) [![Gmail Badge](https://img.shields.io/badge/-mfachrurrazi41@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mfachrurrazi41@gmail.com)](mailto:mfachrurrazi41@gmail.com)
