@@ -46,15 +46,15 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    67 commits     ██████░░░░░░░░░░░░░░░░░░░   24.19% 
-🌆 Daytime    87 commits     ███████░░░░░░░░░░░░░░░░░░   31.41% 
-🌃 Evening    110 commits    ██████████░░░░░░░░░░░░░░░   39.71% 
-🌙 Night      13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.69%
+🌞 Morning    67 commits     ██████░░░░░░░░░░░░░░░░░░░   23.93% 
+🌆 Daytime    87 commits     ███████░░░░░░░░░░░░░░░░░░   31.07% 
+🌃 Evening    113 commits    ██████████░░░░░░░░░░░░░░░   40.36% 
+🌙 Night      13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.64%
 
 ```
 
@@ -65,17 +65,17 @@
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-JavaScript               6 hrs 12 mins       ████████████████████░░░░░   81.28% 
-JSON                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.1% 
-HTML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.84% 
-CSS                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.24% 
+JavaScript               6 hrs 13 mins       ████████████████████░░░░░   81.16% 
+JSON                     41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   9.05% 
+HTML                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.81% 
+CSS                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.44% 
 Text                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78%
 
 🔥 Editors: 
-VS Code                  7 hrs 37 mins       █████████████████████████   100.0%
+VS Code                  7 hrs 40 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  7 hrs 37 mins       █████████████████████████   100.0%
+Windows                  7 hrs 40 mins       █████████████████████████   100.0%
 
 ```
 
@@ -92,7 +92,7 @@ Hack                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 20/04/2022 18:47:07 UTC
+ Last Updated on 21/04/2022 18:51:42 UTC
 <!--END_SECTION:waka-->
 
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadfachrurrazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-fachrurrazi/)](https://www.linkedin.com/in/muhammad-fachrurrazi/) [![Instagram Badge](https://img.shields.io/badge/-@muhfrrazi-DD2A7B?style=flat-square&labelColor=DD2A7B&logo=instagram&logoColor=white&link=https://instagram.com/muhfrrazi)](https://instagram.com/muhfrrazi) [![Gmail Badge](https://img.shields.io/badge/-mfachrurrazi41@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mfachrurrazi41@gmail.com)](mailto:mfachrurrazi41@gmail.com)
