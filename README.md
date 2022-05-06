@@ -46,7 +46,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **I'm an Early 🐤** 
 
@@ -65,16 +65,16 @@
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-CSS                      1 hr 2 mins         ████████████████░░░░░░░░░   66.67% 
-JavaScript               22 mins             ██████░░░░░░░░░░░░░░░░░░░   24.18% 
-HTML                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   8.13% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02%
+CSS                      2 hrs 36 mins       ████████████████░░░░░░░░░   65.54% 
+HTML                     41 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.29% 
+JavaScript               35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   14.98% 
+JSON                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.2%
 
 🔥 Editors: 
-VS Code                  1 hr 33 mins        █████████████████████████   100.0%
+VS Code                  3 hrs 58 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 hr 33 mins        █████████████████████████   100.0%
+Windows                  3 hrs 58 mins       █████████████████████████   100.0%
 
 ```
 
@@ -91,7 +91,7 @@ Hack                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 05/05/2022 18:49:46 UTC
+ Last Updated on 06/05/2022 18:50:07 UTC
 <!--END_SECTION:waka-->
 
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadfachrurrazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-fachrurrazi/)](https://www.linkedin.com/in/muhammad-fachrurrazi/) [![Instagram Badge](https://img.shields.io/badge/-@muhfrrazi-DD2A7B?style=flat-square&labelColor=DD2A7B&logo=instagram&logoColor=white&link=https://instagram.com/muhfrrazi)](https://instagram.com/muhfrrazi) [![Gmail Badge](https://img.shields.io/badge/-mfachrurrazi41@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mfachrurrazi41@gmail.com)](mailto:mfachrurrazi41@gmail.com)
