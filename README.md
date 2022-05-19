@@ -48,15 +48,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    73 commits     ██████░░░░░░░░░░░░░░░░░░░   25.09% 
-🌆 Daytime    87 commits     ███████░░░░░░░░░░░░░░░░░░   29.9% 
-🌃 Evening    118 commits    ██████████░░░░░░░░░░░░░░░   40.55% 
-🌙 Night      13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.47%
+🌞 Morning    73 commits     ██████░░░░░░░░░░░░░░░░░░░   24.09% 
+🌆 Daytime    94 commits     ███████░░░░░░░░░░░░░░░░░░   31.02% 
+🌃 Evening    123 commits    ██████████░░░░░░░░░░░░░░░   40.59% 
+🌙 Night      13 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.29%
 
 ```
 
@@ -67,17 +67,17 @@
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-JavaScript               2 hrs 14 mins       ██████████░░░░░░░░░░░░░░░   42.09% 
-JSON                     2 hrs               █████████░░░░░░░░░░░░░░░░   37.75% 
-HTML                     59 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.47% 
-CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.68% 
+JavaScript               3 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   40.64% 
+JSON                     2 hrs 11 mins       ██████░░░░░░░░░░░░░░░░░░░   26.42% 
+CSS                      1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.34% 
+HTML                     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.59% 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
-VS Code                  5 hrs 19 mins       █████████████████████████   100.0%
+VS Code                  8 hrs 17 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  5 hrs 19 mins       █████████████████████████   100.0%
+Windows                  8 hrs 17 mins       █████████████████████████   100.0%
 
 ```
 
@@ -94,7 +94,7 @@ Hack                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/05/2022 18:50:58 UTC
+ Last Updated on 19/05/2022 18:57:00 UTC
 <!--END_SECTION:waka-->
 
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadfachrurrazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-fachrurrazi/)](https://www.linkedin.com/in/muhammad-fachrurrazi/) [![Instagram Badge](https://img.shields.io/badge/-@muhfrrazi-DD2A7B?style=flat-square&labelColor=DD2A7B&logo=instagram&logoColor=white&link=https://instagram.com/muhfrrazi)](https://instagram.com/muhfrrazi) [![Gmail Badge](https://img.shields.io/badge/-mfachrurrazi41@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mfachrurrazi41@gmail.com)](mailto:mfachrurrazi41@gmail.com)
