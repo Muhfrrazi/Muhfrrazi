@@ -48,7 +48,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **I'm an Early 🐤** 
 
@@ -67,17 +67,17 @@
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-JavaScript               10 hrs 40 mins      ███████████████░░░░░░░░░░   60.78% 
-JSON                     2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.15% 
-CSS                      2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.09% 
-HTML                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.87% 
-SCSS                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
+JavaScript               11 hrs 39 mins      ███████████████░░░░░░░░░░   61.41% 
+CSS                      2 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   15.2% 
+JSON                     2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   14.84% 
+HTML                     1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.21% 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.22%
 
 🔥 Editors: 
-VS Code                  17 hrs 33 mins      █████████████████████████   100.0%
+VS Code                  18 hrs 59 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  17 hrs 33 mins      █████████████████████████   100.0%
+Windows                  18 hrs 59 mins      █████████████████████████   100.0%
 
 ```
 
@@ -94,7 +94,7 @@ Hack                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/05/2022 18:51:25 UTC
+ Last Updated on 21/05/2022 18:49:36 UTC
 <!--END_SECTION:waka-->
 
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadfachrurrazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-fachrurrazi/)](https://www.linkedin.com/in/muhammad-fachrurrazi/) [![Instagram Badge](https://img.shields.io/badge/-@muhfrrazi-DD2A7B?style=flat-square&labelColor=DD2A7B&logo=instagram&logoColor=white&link=https://instagram.com/muhfrrazi)](https://instagram.com/muhfrrazi) [![Gmail Badge](https://img.shields.io/badge/-mfachrurrazi41@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mfachrurrazi41@gmail.com)](mailto:mfachrurrazi41@gmail.com)
