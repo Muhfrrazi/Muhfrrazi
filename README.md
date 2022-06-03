@@ -67,16 +67,17 @@
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-HTML                     48 mins             █████████░░░░░░░░░░░░░░░░   38.56% 
-CSS                      43 mins             ████████░░░░░░░░░░░░░░░░░   34.8% 
-C++                      33 mins             ██████░░░░░░░░░░░░░░░░░░░   26.56% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
+HTML                     53 mins             █████████░░░░░░░░░░░░░░░░   37.31% 
+CSS                      43 mins             ███████░░░░░░░░░░░░░░░░░░   30.65% 
+C++                      38 mins             ██████░░░░░░░░░░░░░░░░░░░   26.63% 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.36% 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.04%
 
 🔥 Editors: 
-VS Code                  2 hrs 4 mins        █████████████████████████   100.0%
+VS Code                  2 hrs 23 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  2 hrs 4 mins        █████████████████████████   100.0%
+Windows                  2 hrs 23 mins       █████████████████████████   100.0%
 
 ```
 
@@ -93,7 +94,7 @@ Hack                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/06/2022 18:50:32 UTC
+ Last Updated on 03/06/2022 18:47:49 UTC
 <!--END_SECTION:waka-->
 
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadfachrurrazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-fachrurrazi/)](https://www.linkedin.com/in/muhammad-fachrurrazi/) [![Instagram Badge](https://img.shields.io/badge/-@muhfrrazi-DD2A7B?style=flat-square&labelColor=DD2A7B&logo=instagram&logoColor=white&link=https://instagram.com/muhfrrazi)](https://instagram.com/muhfrrazi) [![Gmail Badge](https://img.shields.io/badge/-mfachrurrazi41@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mfachrurrazi41@gmail.com)](mailto:mfachrurrazi41@gmail.com)
