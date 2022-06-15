@@ -48,15 +48,15 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    77 commits     █████░░░░░░░░░░░░░░░░░░░░   21.04% 
-🌆 Daytime    122 commits    ████████░░░░░░░░░░░░░░░░░   33.33% 
-🌃 Evening    137 commits    █████████░░░░░░░░░░░░░░░░   37.43% 
-🌙 Night      30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.2%
+🌞 Morning    77 commits     █████░░░░░░░░░░░░░░░░░░░░   20.75% 
+🌆 Daytime    124 commits    ████████░░░░░░░░░░░░░░░░░   33.42% 
+🌃 Evening    140 commits    █████████░░░░░░░░░░░░░░░░   37.74% 
+🌙 Night      30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.09%
 
 ```
 
@@ -67,17 +67,17 @@
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Blade Template           8 hrs 22 mins       ███████████████░░░░░░░░░░   61.36% 
-JavaScript               1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.61% 
-HTML                     1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.61% 
-PHP                      49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.04% 
-JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.07%
+Blade Template           5 hrs 55 mins       █████████████░░░░░░░░░░░░   52.91% 
+JavaScript               1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.39% 
+HTML                     1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   15.38% 
+PHP                      1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   9.19% 
+JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.98%
 
 🔥 Editors: 
-VS Code                  13 hrs 39 mins      █████████████████████████   100.0%
+VS Code                  11 hrs 11 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  13 hrs 39 mins      █████████████████████████   100.0%
+Windows                  11 hrs 11 mins      █████████████████████████   100.0%
 
 ```
 
@@ -94,7 +94,7 @@ Hack                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/06/2022 18:49:53 UTC
+ Last Updated on 15/06/2022 18:49:37 UTC
 <!--END_SECTION:waka-->
 
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadfachrurrazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-fachrurrazi/)](https://www.linkedin.com/in/muhammad-fachrurrazi/) [![Instagram Badge](https://img.shields.io/badge/-@muhfrrazi-DD2A7B?style=flat-square&labelColor=DD2A7B&logo=instagram&logoColor=white&link=https://instagram.com/muhfrrazi)](https://instagram.com/muhfrrazi) [![Gmail Badge](https://img.shields.io/badge/-mfachrurrazi41@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mfachrurrazi41@gmail.com)](mailto:mfachrurrazi41@gmail.com)
