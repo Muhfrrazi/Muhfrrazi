@@ -67,17 +67,17 @@
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-HTML                     1 hr 43 mins        ██████░░░░░░░░░░░░░░░░░░░   26.68% 
-JavaScript               1 hr 42 mins        ██████░░░░░░░░░░░░░░░░░░░   26.4% 
-Blade Template           1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.91% 
-PHP                      1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.69% 
-JSON                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   8.67%
+HTML                     1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   27.49% 
+JavaScript               1 hr 35 mins        ██████░░░░░░░░░░░░░░░░░░░   25.67% 
+Blade Template           1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
+PHP                      1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.31% 
+JSON                     25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.0%
 
 🔥 Editors: 
-VS Code                  6 hrs 27 mins       █████████████████████████   100.0%
+VS Code                  6 hrs 10 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  6 hrs 27 mins       █████████████████████████   100.0%
+Windows                  6 hrs 10 mins       █████████████████████████   100.0%
 
 ```
 
@@ -94,7 +94,7 @@ Hack                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/06/2022 18:47:28 UTC
+ Last Updated on 19/06/2022 18:46:30 UTC
 <!--END_SECTION:waka-->
 
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadfachrurrazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-fachrurrazi/)](https://www.linkedin.com/in/muhammad-fachrurrazi/) [![Instagram Badge](https://img.shields.io/badge/-@muhfrrazi-DD2A7B?style=flat-square&labelColor=DD2A7B&logo=instagram&logoColor=white&link=https://instagram.com/muhfrrazi)](https://instagram.com/muhfrrazi) [![Gmail Badge](https://img.shields.io/badge/-mfachrurrazi41@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mfachrurrazi41@gmail.com)](mailto:mfachrurrazi41@gmail.com)
