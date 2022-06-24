@@ -49,14 +49,17 @@
 </p>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    80 commits     █████░░░░░░░░░░░░░░░░░░░░   21.11% 
-🌆 Daytime    129 commits    ████████░░░░░░░░░░░░░░░░░   34.04% 
-🌃 Evening    140 commits    █████████░░░░░░░░░░░░░░░░   36.94% 
-🌙 Night      30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.92%
+🌞 Morning    80 commits     █████░░░░░░░░░░░░░░░░░░░░   20.83% 
+🌆 Daytime    130 commits    ████████░░░░░░░░░░░░░░░░░   33.85% 
+🌃 Evening    144 commits    █████████░░░░░░░░░░░░░░░░   37.5% 
+🌙 Night      30 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.81%
 
 ```
 
@@ -67,17 +70,16 @@
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-HTML                     2 hrs               █████████████████░░░░░░░░   70.65% 
-PHP                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   11.17% 
-Blade Template           12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   7.4% 
-JSON                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.83% 
-Bash                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.23%
+HTML                     2 hrs               ████████████████████████░   97.92% 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.5% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.33% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
 
 🔥 Editors: 
-VS Code                  2 hrs 50 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 2 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  2 hrs 50 mins       █████████████████████████   100.0%
+Windows                  2 hrs 2 mins        █████████████████████████   100.0%
 
 ```
 
@@ -92,11 +94,9 @@ Hack                     1 repo              █░░░░░░░░░░�
 
 ```
 
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
- Last Updated on 23/06/2022 18:51:49 UTC
+ Last Updated on 24/06/2022 18:50:11 UTC
 <!--END_SECTION:waka-->
 
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadfachrurrazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-fachrurrazi/)](https://www.linkedin.com/in/muhammad-fachrurrazi/) [![Instagram Badge](https://img.shields.io/badge/-@muhfrrazi-DD2A7B?style=flat-square&labelColor=DD2A7B&logo=instagram&logoColor=white&link=https://instagram.com/muhfrrazi)](https://instagram.com/muhfrrazi) [![Gmail Badge](https://img.shields.io/badge/-mfachrurrazi41@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mfachrurrazi41@gmail.com)](mailto:mfachrurrazi41@gmail.com)
