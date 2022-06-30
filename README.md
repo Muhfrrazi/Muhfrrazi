@@ -51,7 +51,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-17-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
 **I'm an Early 🐤** 
 
@@ -95,7 +95,7 @@ Hack                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/06/2022 18:53:41 UTC
+ Last Updated on 30/06/2022 18:52:38 UTC
 <!--END_SECTION:waka-->
 
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadfachrurrazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-fachrurrazi/)](https://www.linkedin.com/in/muhammad-fachrurrazi/) [![Instagram Badge](https://img.shields.io/badge/-@muhfrrazi-DD2A7B?style=flat-square&labelColor=DD2A7B&logo=instagram&logoColor=white&link=https://instagram.com/muhfrrazi)](https://instagram.com/muhfrrazi) [![Gmail Badge](https://img.shields.io/badge/-mfachrurrazi41@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mfachrurrazi41@gmail.com)](mailto:mfachrurrazi41@gmail.com)
