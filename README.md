@@ -49,17 +49,17 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-204%20hrs%2025%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-8-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    80 commits     █████░░░░░░░░░░░░░░░░░░░░   20.62% 
-🌆 Daytime    130 commits    ████████░░░░░░░░░░░░░░░░░   33.51% 
-🌃 Evening    147 commits    █████████░░░░░░░░░░░░░░░░   37.89% 
-🌙 Night      31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.99%
+🌞 Morning    83 commits     █████░░░░░░░░░░░░░░░░░░░░   20.49% 
+🌆 Daytime    131 commits    ████████░░░░░░░░░░░░░░░░░   32.35% 
+🌃 Evening    159 commits    █████████░░░░░░░░░░░░░░░░   39.26% 
+🌙 Night      32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.9%
 
 ```
 
@@ -70,30 +70,32 @@
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Blade Template           2 hrs 23 mins       ██████████████████░░░░░░░   75.24% 
+PHP                      47 mins             ██████░░░░░░░░░░░░░░░░░░░   24.58% 
+SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 20 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 20 mins       █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               7 repos             ███████████░░░░░░░░░░░░░░   46.67% 
-PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.33% 
-Blade                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
-Hack                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+JavaScript               7 repos             ██████████░░░░░░░░░░░░░░░   41.18% 
+HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
+PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
+Blade                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
+Hack                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
 
 ```
 
 
 
- Last Updated on 22/07/2022 18:51:41 UTC
+ Last Updated on 17/08/2022 18:53:13 UTC
 <!--END_SECTION:waka-->
 
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadfachrurrazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-fachrurrazi/)](https://www.linkedin.com/in/muhammad-fachrurrazi/) [![Instagram Badge](https://img.shields.io/badge/-@muhfrrazi-DD2A7B?style=flat-square&labelColor=DD2A7B&logo=instagram&logoColor=white&link=https://instagram.com/muhfrrazi)](https://instagram.com/muhfrrazi) [![Gmail Badge](https://img.shields.io/badge/-hey@muhfrrazi.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hey@muhfrrazi.me)](mailto:hey@muhfrrazi.me)
