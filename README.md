@@ -70,15 +70,15 @@
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Blade Template           2 hrs 23 mins       ██████████████████░░░░░░░   75.24% 
-PHP                      47 mins             ██████░░░░░░░░░░░░░░░░░░░   24.58% 
-SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.18%
+Blade Template           2 hrs 23 mins       ████████████████████████░   99.14% 
+PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.62% 
+SCSS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.24%
 
 🔥 Editors: 
-VS Code                  2 hrs 20 mins       █████████████████████████   100.0%
+VS Code                  1 hr 34 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  2 hrs 20 mins       █████████████████████████   100.0%
+Windows                  1 hr 34 mins        █████████████████████████   100.0%
 
 ```
 
@@ -95,7 +95,7 @@ Hack                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/08/2022 18:53:13 UTC
+ Last Updated on 18/08/2022 18:49:43 UTC
 <!--END_SECTION:waka-->
 
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadfachrurrazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-fachrurrazi/)](https://www.linkedin.com/in/muhammad-fachrurrazi/) [![Instagram Badge](https://img.shields.io/badge/-@muhfrrazi-DD2A7B?style=flat-square&labelColor=DD2A7B&logo=instagram&logoColor=white&link=https://instagram.com/muhfrrazi)](https://instagram.com/muhfrrazi) [![Gmail Badge](https://img.shields.io/badge/-hey@muhfrrazi.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hey@muhfrrazi.me)](mailto:hey@muhfrrazi.me)
