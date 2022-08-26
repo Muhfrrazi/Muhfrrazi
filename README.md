@@ -56,10 +56,10 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    83 commits     █████░░░░░░░░░░░░░░░░░░░░   20.49% 
-🌆 Daytime    131 commits    ████████░░░░░░░░░░░░░░░░░   32.35% 
-🌃 Evening    159 commits    █████████░░░░░░░░░░░░░░░░   39.26% 
-🌙 Night      32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.9%
+🌞 Morning    86 commits     █████░░░░░░░░░░░░░░░░░░░░   21.08% 
+🌆 Daytime    131 commits    ████████░░░░░░░░░░░░░░░░░   32.11% 
+🌃 Evening    159 commits    █████████░░░░░░░░░░░░░░░░   38.97% 
+🌙 Night      32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.84%
 
 ```
 
@@ -83,17 +83,17 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               7 repos             ██████████░░░░░░░░░░░░░░░   41.18% 
-HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
-PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76% 
-Blade                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88% 
-Hack                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.88%
+JavaScript               7 repos             █████████░░░░░░░░░░░░░░░░   38.89% 
+HTML                     3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
+PHP                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
+Blade                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   5.56%
 
 ```
 
 
 
- Last Updated on 25/08/2022 18:50:05 UTC
+ Last Updated on 26/08/2022 18:51:12 UTC
 <!--END_SECTION:waka-->
 
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadfachrurrazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-fachrurrazi/)](https://www.linkedin.com/in/muhammad-fachrurrazi/) [![Instagram Badge](https://img.shields.io/badge/-@muhfrrazi-DD2A7B?style=flat-square&labelColor=DD2A7B&logo=instagram&logoColor=white&link=https://instagram.com/muhfrrazi)](https://instagram.com/muhfrrazi) [![Gmail Badge](https://img.shields.io/badge/-hey@muhfrrazi.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hey@muhfrrazi.me)](mailto:hey@muhfrrazi.me)
