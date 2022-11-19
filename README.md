@@ -70,15 +70,13 @@
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-VB.NET                   12 mins             █████████████████████░░░░   86.48% 
-C#                       1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.8% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.73%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  14 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  14 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -95,7 +93,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/11/2022 18:49:31 UTC
+ Last Updated on 19/11/2022 18:45:59 UTC
 <!--END_SECTION:waka-->
 
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadfachrurrazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-fachrurrazi/)](https://www.linkedin.com/in/muhammad-fachrurrazi/) [![Instagram Badge](https://img.shields.io/badge/-@muhfrrazi-DD2A7B?style=flat-square&labelColor=DD2A7B&logo=instagram&logoColor=white&link=https://instagram.com/muhfrrazi)](https://instagram.com/muhfrrazi) [![Gmail Badge](https://img.shields.io/badge/-hey@muhfrrazi.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hey@muhfrrazi.me)](mailto:hey@muhfrrazi.me)
