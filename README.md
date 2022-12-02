@@ -70,17 +70,17 @@
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-JavaScript               4 hrs 17 mins       █████████████████░░░░░░░░   71.21% 
-CSS                      1 hr 17 mins        █████░░░░░░░░░░░░░░░░░░░░   21.39% 
-JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.19% 
-HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.96% 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
+JavaScript               2 hrs 45 mins       ██████████████████░░░░░░░   75.14% 
+CSS                      49 mins             █████░░░░░░░░░░░░░░░░░░░░   22.5% 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.12% 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.14% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
 
 🔥 Editors: 
-VS Code                  6 hrs 1 min         █████████████████████████   100.0%
+VS Code                  3 hrs 40 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  6 hrs 1 min         █████████████████████████   100.0%
+Windows                  3 hrs 40 mins       █████████████████████████   100.0%
 
 ```
 
@@ -97,7 +97,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/12/2022 18:46:41 UTC
+ Last Updated on 02/12/2022 18:43:18 UTC
 <!--END_SECTION:waka-->
 
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadfachrurrazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-fachrurrazi/)](https://www.linkedin.com/in/muhammad-fachrurrazi/) [![Instagram Badge](https://img.shields.io/badge/-@muhfrrazi-DD2A7B?style=flat-square&labelColor=DD2A7B&logo=instagram&logoColor=white&link=https://instagram.com/muhfrrazi)](https://instagram.com/muhfrrazi) [![Gmail Badge](https://img.shields.io/badge/-hey@muhfrrazi.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hey@muhfrrazi.me)](mailto:hey@muhfrrazi.me)
