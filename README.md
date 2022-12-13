@@ -49,9 +49,40 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-215%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-215%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    65 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.81% 
+🌆 Daytime    139 commits    █████████░░░░░░░░░░░░░░░░   38.08% 
+🌃 Evening    135 commits    █████████░░░░░░░░░░░░░░░░   36.99% 
+🌙 Night      26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.12%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Singapore
+
+💬 Programming Languages: 
+JavaScript               54 mins             ████████████████████████░   96.61% 
+C                        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.33% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.65% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28% 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
+
+🔥 Editors: 
+VS Code                  56 mins             █████████████████████████   100.0%
+
+💻 Operating System: 
+Windows                  56 mins             █████████████████████████   100.0%
+
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -66,7 +97,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/12/2022 18:44:53 UTC
+ Last Updated on 13/12/2022 18:44:31 UTC
 <!--END_SECTION:waka-->
 
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadfachrurrazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-fachrurrazi/)](https://www.linkedin.com/in/muhammad-fachrurrazi/) [![Instagram Badge](https://img.shields.io/badge/-@muhfrrazi-DD2A7B?style=flat-square&labelColor=DD2A7B&logo=instagram&logoColor=white&link=https://instagram.com/muhfrrazi)](https://instagram.com/muhfrrazi) [![Gmail Badge](https://img.shields.io/badge/-hey@muhfrrazi.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hey@muhfrrazi.me)](mailto:hey@muhfrrazi.me)
