@@ -70,17 +70,16 @@
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-JavaScript               54 mins             ████████████████████████░   96.63% 
-C                        1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   2.32% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.64% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.28% 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.13%
+JavaScript               8 mins              ████████████████████░░░░░   82.91% 
+C                        1 min               ███░░░░░░░░░░░░░░░░░░░░░░   12.81% 
+Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   3.55% 
+C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.74%
 
 🔥 Editors: 
-VS Code                  56 mins             █████████████████████████   100.0%
+VS Code                  10 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  56 mins             █████████████████████████   100.0%
+Windows                  10 mins             █████████████████████████   100.0%
 
 ```
 
@@ -97,7 +96,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/12/2022 18:42:26 UTC
+ Last Updated on 17/12/2022 18:40:32 UTC
 <!--END_SECTION:waka-->
 
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadfachrurrazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-fachrurrazi/)](https://www.linkedin.com/in/muhammad-fachrurrazi/) [![Instagram Badge](https://img.shields.io/badge/-@muhfrrazi-DD2A7B?style=flat-square&labelColor=DD2A7B&logo=instagram&logoColor=white&link=https://instagram.com/muhfrrazi)](https://instagram.com/muhfrrazi) [![Gmail Badge](https://img.shields.io/badge/-hey@muhfrrazi.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hey@muhfrrazi.me)](mailto:hey@muhfrrazi.me)
