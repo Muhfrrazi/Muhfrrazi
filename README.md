@@ -49,17 +49,17 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-215%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-215%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    65 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.81% 
-🌆 Daytime    139 commits    █████████░░░░░░░░░░░░░░░░   38.08% 
-🌃 Evening    135 commits    █████████░░░░░░░░░░░░░░░░   36.99% 
-🌙 Night      26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.12%
+🌞 Morning    68 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
+🌆 Daytime    162 commits    ██████████░░░░░░░░░░░░░░░   41.43% 
+🌃 Evening    135 commits    ████████░░░░░░░░░░░░░░░░░   34.53% 
+🌙 Night      26 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.65%
 
 ```
 
@@ -70,30 +70,31 @@
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    0 secs              █████████████░░░░░░░░░░░░   54.63% 
+Python                   0 secs              ███████████░░░░░░░░░░░░░░   45.37%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 min               █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 min               █████████████████████████   100.0%
 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               10 repos            ████████████░░░░░░░░░░░░░   47.62% 
-HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-PHP                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
-Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.52% 
-Blade                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
+JavaScript               10 repos            ██████████░░░░░░░░░░░░░░░   43.48% 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
+CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.04% 
+PHP                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7% 
+Jupyter Notebook         2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.7%
 
 ```
 
 
 
- Last Updated on 28/12/2022 18:42:02 UTC
+ Last Updated on 29/12/2022 18:42:11 UTC
 <!--END_SECTION:waka-->
 
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadfachrurrazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-fachrurrazi/)](https://www.linkedin.com/in/muhammad-fachrurrazi/) [![Instagram Badge](https://img.shields.io/badge/-@muhfrrazi-DD2A7B?style=flat-square&labelColor=DD2A7B&logo=instagram&logoColor=white&link=https://instagram.com/muhfrrazi)](https://instagram.com/muhfrrazi) [![Gmail Badge](https://img.shields.io/badge/-hey@muhfrrazi.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hey@muhfrrazi.me)](mailto:hey@muhfrrazi.me)
