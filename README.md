@@ -49,7 +49,7 @@
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-215%20hrs%2021%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -70,14 +70,17 @@
 ⌚︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Other                    0 secs              █████████████░░░░░░░░░░░░   54.63% 
-Python                   0 secs              ███████████░░░░░░░░░░░░░░   45.37%
+HTML                     2 hrs 13 mins       █████████████░░░░░░░░░░░░   55.3% 
+CSS                      1 hr 31 mins        █████████░░░░░░░░░░░░░░░░   38.11% 
+JavaScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.03% 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.03% 
+SCSS                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86%
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.0%
+VS Code                  4 hrs               █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.0%
+Windows                  4 hrs               █████████████████████████   100.0%
 
 ```
 
@@ -94,7 +97,7 @@ Jupyter Notebook         2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 29/12/2022 18:42:11 UTC
+ Last Updated on 30/12/2022 18:41:41 UTC
 <!--END_SECTION:waka-->
 
 [![Linkedin Badge](https://img.shields.io/badge/-muhammadfachrurrazi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-fachrurrazi/)](https://www.linkedin.com/in/muhammad-fachrurrazi/) [![Instagram Badge](https://img.shields.io/badge/-@muhfrrazi-DD2A7B?style=flat-square&labelColor=DD2A7B&logo=instagram&logoColor=white&link=https://instagram.com/muhfrrazi)](https://instagram.com/muhfrrazi) [![Gmail Badge](https://img.shields.io/badge/-hey@muhfrrazi.me-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hey@muhfrrazi.me)](mailto:hey@muhfrrazi.me)
