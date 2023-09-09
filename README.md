@@ -51,7 +51,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-219%20hrs%2021%20mins-blue)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Muhfrrazi)
+![Profile Views](https://komarev.com/ghpvc/?username=Muhfrrazi)<br />
 **I'm an Early 🐤** 
 
 ```text
